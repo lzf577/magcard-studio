@@ -1,6 +1,16 @@
 # MagCard Studio - 超市会员卡与磁条卡读写管理系统
 
-![MagCard Studio](readme.png)
+<p align="center">
+  <img src="readme.png" alt="MagCard Studio" width="720"/>
+</p>
+
+<p align="center">
+  <a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-3.5%2B-3776AB.svg?logo=python&logoColor=white" alt="Python Version"/></a>
+  <img src="https://img.shields.io/badge/Platform-Windows%20%7C%20Linux-0078D6.svg?logo=windows&logoColor=white" alt="Platform"/>
+  <img src="https://img.shields.io/badge/Hardware-MSR605%20%2F%20DEFTUN%20MSR--X6-FF6F00.svg" alt="Hardware"/>
+  <img src="https://img.shields.io/badge/Standard-ISO%207811%20(Track%201%2F2%2F3)-8E24AA.svg" alt="Standard"/>
+  <a href="LICENSE"><img src="https://img.shields.io/badge/License-GPLv3-2E7D32.svg" alt="License"/></a>
+</p>
 
 > 一款基于 Python + Tkinter 的磁条卡读写管理桌面应用，兼容 DEFTUN MSR-X6 / MSR605 系列设备。适用于超市商超、实体商户的磁条会员积分卡批量制卡、读取、写入与本地数据库管理。
 
